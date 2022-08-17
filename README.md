@@ -35,5 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lil-adonis&" alt="lil-adonis" /></p>
 
-** Snake eating contribution
+**
 ![snake gif](https://github.com/Lil-Adonis/Lil-Adonis/blob/output/github-contribution-grid-snake.gif)

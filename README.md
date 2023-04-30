@@ -9,4 +9,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lil-Adonis&theme=chartreuse-dark&hide_border=true&border_radius=50&card_width=700)](https://git.io/streak-stats)
 
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
 **

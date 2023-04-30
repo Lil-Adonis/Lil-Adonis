@@ -1,6 +1,43 @@
 # Lil-Adonis
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-adonis&label=Profile%20views&color=0e75b6&style=flat" alt="lil-adonis" /> </p>
 
+```js
+
+document.write("You Are Welcome");
+
+var status = 
+{ 
+  learning : [MERN],
+  interests: [Opensource, Vue, Technical Writing, Three.js]
+}
+
+const skills = 
+{
+  languages :[Javascript, Typescript, Css],
+  
+  frameworks:[Mui, Tailwind, ReactJs, NextJs, ExpressJs],
+
+  databases :[Firebase, MongoDB],
+  
+  platforms :[Hashnode, Medium, Netlify, Vercel, Heroku],
+  
+  tools     :[Gitbash, Github, Gsap, RapidAPI, Jest]
+}
+
+
+Developer dev = new Developer(Lil-Adonis);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+
+```
+
+
 # MY STATS (They are pathetic)
 
 [![](https://raw.githubusercontent.com/Lil-Adonis/Lil-Adonis/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

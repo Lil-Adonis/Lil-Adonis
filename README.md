@@ -1,4 +1,5 @@
 # Lil-Adonis
+<img align="right" alt="coding" width="400" src= "https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 # MY STATS (They are pathetic)
 

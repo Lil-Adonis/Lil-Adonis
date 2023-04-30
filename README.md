@@ -1,5 +1,5 @@
 # Lil-Adonis
-<img align="right" alt="coding" width="400" src= "https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-adonis&label=Profile%20views&color=0e75b6&style=flat" alt="lil-adonis" /> </p>
 
 # MY STATS (They are pathetic)
 

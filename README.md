@@ -4,7 +4,6 @@
 ```js
 
 document.write("You Are Welcome");
-
 var status = 
 { 
   learning : [MERN],
@@ -14,25 +13,10 @@ var status =
 const skills = 
 {
   languages :[Javascript, Typescript, Css],
-  
   frameworks:[Mui, Tailwind, ReactJs, NextJs, ExpressJs],
-
   databases :[Firebase, MongoDB],
-  
   platforms :[Hashnode, Medium, Netlify, Vercel, Heroku],
-  
   tools     :[Gitbash, Github, Gsap, RapidAPI, Jest]
-}
-
-
-Developer dev = new Developer(Lil-Adonis);
-
-while(dev.isCoding() && dev.isStuck())  
-{
-  dev.openBrowser();
-  dev.openStackOverFlow();
-  dev.pasteCodeInIde();
-  dev.feelProfessional();
 }
 
 ```

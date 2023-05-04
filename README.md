@@ -4,7 +4,7 @@
 ```Javascript
 const lilAdonis = {
   openTowork: true,
-  position: ["Front-end developer", "Backend developer", "Fullstack developer"]
+  position: ["Front-end developer", "Backend developer", "Fullstack developer"],
   lookingTo:  "Collaborate and contribute to open source project",
   pronouns: ["He", "him"],
   challenge: "I am honing my MERN skills",

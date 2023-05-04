@@ -10,14 +10,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lil-Adonis&theme=midnight_purple&hide_border=true&border_radius=50&card_width=700)](https://git.io/streak-stats)
 
 
-## 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lil-Adonis&rank=S,AAA,AA,A,B,C&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  
-</div>
-
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 

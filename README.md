@@ -11,17 +11,13 @@
 
 ## 💻 My Current Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,vercel,redux,figma,firebase,supabase,vite,css,css,css,css,css,css,css,css,css,css">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,ts,vercel,redux,firebase,vite,react,bootstrap,docker,express,fastapi,firebase,gatsby,github,graphql,heroku,jest,mongodb,materialui,nodejs,postman,sass,styledcomponents,tailwind,webpack">
 
  ![Snake animation](https://github.com/Lil-Adonis/Lil-Adonis/blob/output/github-contribution-grid-snake.svg)
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,vercel,redux,figma,firebase,supabase,vite,css,css,css,css,css,css,css,css,css,css">
-  </a>
-</p>
+
 
 
 

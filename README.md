@@ -9,6 +9,15 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lil-Adonis&theme=midnight_purple&hide_border=true&border_radius=50&card_width=700)](https://git.io/streak-stats)
 
+## 💻 My Current Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,vercel,redux,figma,firebase,supabase,vite">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 
  ![Snake animation](https://github.com/Lil-Adonis/Lil-Adonis/blob/output/github-contribution-grid-snake.svg)
 

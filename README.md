@@ -11,13 +11,7 @@
 
 ## 💻 My Current Tech Stack
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,vercel,redux,figma,firebase,supabase,vite,css,css,css,css,css,css,css,css.css,css">
-  </a>
-</p>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,vercel,redux,figma,firebase,supabase,vite,css,css,css,css,css,css,css,css.css,css">
 
  ![Snake animation](https://github.com/Lil-Adonis/Lil-Adonis/blob/output/github-contribution-grid-snake.svg)
 

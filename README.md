@@ -1,7 +1,19 @@
 # Welcome
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-adonis&label=Profile%20views&color=0e75b6&style=flat" alt="lil-adonis" /> </p>
 
-# MY STATS (They are pathetic)
+```Javascript
+const lilAdonis = {
+  openTowork: true,
+  position: ["Front-end developer", "Backend developer", "Fullstack developer"]
+  lookingTo:  "Collaborate and contribute to open source project",
+  pronouns: ["He", "him"],
+  challenge: "I am honing my MERN skills",
+  reachMe: "adenugaib24@gmail.com"
+}
+```
+
+
+# STATS
 
  [![](https://raw.githubusercontent.com/Lil-Adonis/Lil-Adonis/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Lil-Adonis/Lil-Adonis/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards ) [![](https://raw.githubusercontent.com/Lil-Adonis/Lil-Adonis/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

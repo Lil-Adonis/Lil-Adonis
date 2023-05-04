@@ -11,7 +11,7 @@
 
 ## 💻 My Current Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,vercel,redux,figma,firebase,supabase,vite">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,vercel,redux,figma,firebase,supabase,vite,css,css,css,css,css,css,css,css.css,css">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />

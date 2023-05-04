@@ -10,7 +10,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lil-Adonis&theme=midnight_purple&hide_border=true&border_radius=50&card_width=700)](https://git.io/streak-stats)
 
 
- ![Snake animation](https://github.com/eagrundy/Lil-Adonis/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Lil-Adonis/Lil-Adonis/blob/output/github-contribution-grid-snake.svg)
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 

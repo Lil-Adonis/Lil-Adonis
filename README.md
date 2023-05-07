@@ -1,4 +1,6 @@
 # Welcome
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4999&pause=1000&color=302485&width=435&lines=Pleased+to+have+you+here+%F0%9F%99%82)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-adonis&label=Profile%20views&color=0e75b6&style=flat" alt="lil-adonis" /> </p>
 
 ```Javascript

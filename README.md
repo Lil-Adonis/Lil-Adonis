@@ -25,7 +25,7 @@ const AboutMe = () => {
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lil-Adonis&theme=midnight_purple&hide_border=true&border_radius=50&card_width=700)](https://git.io/streak-stats)
-
+![gitartwork](gitartwork.svg)
 ## 💻 My Current Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,ts,vercel,redux,firebase,vite,react,bootstrap,docker,express,fastapi,firebase,gatsby,github,graphql,heroku,jest,mongodb,materialui,nodejs,postman,sass,styledcomponents,tailwind,webpack">

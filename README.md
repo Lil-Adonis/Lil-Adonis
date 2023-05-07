@@ -2,17 +2,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-adonis&label=Profile%20views&color=0e75b6&style=flat" alt="lil-adonis" /> </p>
 
 ```Javascript
-import Readme, { useState } from 'github';
+import Readme from 'github';
+import React from 'react';
 
-const Readme = () => {
-  const [data] = useState({
-    'user': 'Lil Adonis',
-    'about': 'Developer in the night, student during the day',
-    'pronouns': 'he/him',
-    'skills': '🌱 I’m currently learning web development (HTML, CSS, JS) & Python',
-    'fun fact': 'I like sports (football, baseball, soccer) | jogging 🏃 | Rock music 🎸'
-  });
-}
+const AboutMe = () => {
+  const { user, about, pronouns, skills, funFact } = {
+    user: 'Lil Adonis',
+    about: 'Developer in the night, student during the day',
+    pronouns: 'he/him',
+    skills: 'MERN Developer'
+  };
 ```
 
 

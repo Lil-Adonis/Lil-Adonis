@@ -21,6 +21,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          
+           # os
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+            user_name: Lil-Adonis
+            text: OPEN SOURCE
+      - uses: jasineri/simple-push-action@v1
 
           
             # Snake Animation

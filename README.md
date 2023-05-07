@@ -27,6 +27,13 @@ const AboutMe = () => {
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs,ts,vercel,redux,firebase,vite,react,bootstrap,docker,express,fastapi,firebase,gatsby,github,graphql,heroku,jest,mongodb,materialui,nodejs,postman,sass,styledcomponents,tailwind,webpack">
 
+<div align="center" style="margin-bottom: 40px; margin-top: 40px;">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app?username=Lil-Adonis&theme=midnight_purple&hide_border=true&include_all_commits=true&line_height=27"/>
+  <br>
+  <br>
+</div>
+
  ![Snake animation](https://github.com/Lil-Adonis/Lil-Adonis/blob/output/github-contribution-grid-snake.svg)
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

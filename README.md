@@ -8,7 +8,7 @@ import Readme from 'github';
 import React from 'react';
 
 const AboutMe = () => {
-  const { user, about, pronouns, skills, funFact } = {
+  const { user, about, pronouns, skills } = {
     user: 'Lil Adonis',
     about: 'Developer in the night, student during the day',
     pronouns: 'he/him',

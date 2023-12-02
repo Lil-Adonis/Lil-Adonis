@@ -3,6 +3,10 @@ ____
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-adonis&label=Profile%20views&color=0e75b6&style=flat" alt="lil-adonis" /> </p>
 
+
+
+<img align="center" src="[https://readme-typing-svg.herokuapp.com/?lines=⚡+Welcome+To+My+Github+Profile+⚡;&center=true&vCenter=true&pause=500&width=800&height=45](https://raw.githubusercontent.com/DevHumbleChris/DevHumbleChris/main/public/mario.gif)" width="100%" />
+
 ```Javascript
 import Readme from 'github';
 import React from 'react';
